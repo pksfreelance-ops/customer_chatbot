@@ -15,9 +15,9 @@
   { "output": "..." }
 */
 
-const USE_N8N = false;
+const USE_N8N = True;
 
-const N8N_WEBHOOK_URL = "https://YOUR-N8N-DOMAIN/webhook/customer-chat";
+const N8N_WEBHOOK_URL = "https://noni003.app.n8n.cloud/webhook-test/customer_chatbot";
 
 const chatForm = document.getElementById("chatForm");
 const messageInput = document.getElementById("messageInput");
